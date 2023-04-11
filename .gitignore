@@ -1,4 +1,3 @@
-
-
-./LinqTutorialInCSharp/obj
-
+LinqTutorialInCSharp/bin
+LinqTutorialInCSharp/obj
+.vs/
