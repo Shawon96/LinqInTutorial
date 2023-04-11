@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\LinqTutorialInCSharp\LinqInTutorial\LinqTutorialInCSharp\bin\Debug\net5.0\LinqTutorialInCSharp.exe
+C:\Users\HP\source\repos\LinqTutorialInCSharp\LinqInTutorial\LinqTutorialInCSharp\bin\Debug\net5.0\LinqTutorialInCSharp.deps.json
+C:\Users\HP\source\repos\LinqTutorialInCSharp\LinqInTutorial\LinqTutorialInCSharp\bin\Debug\net5.0\LinqTutorialInCSharp.runtimeconfig.json
+C:\Users\HP\source\repos\LinqTutorialInCSharp\LinqInTutorial\LinqTutorialInCSharp\bin\Debug\net5.0\LinqTutorialInCSharp.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LinqTutorialInCSharp\LinqInTutorial\LinqTutorialInCSharp\bin\Debug\net5.0\LinqTutorialInCSharp.dll
+C:\Users\HP\source\repos\LinqTutorialInCSharp\LinqInTutorial\LinqTutorialInCSharp\bin\Debug\net5.0\ref\LinqTutorialInCSharp.dll
+C:\Users\HP\source\repos\LinqTutorialInCSharp\LinqInTutorial\LinqTutorialInCSharp\bin\Debug\net5.0\LinqTutorialInCSharp.pdb
+C:\Users\HP\source\repos\LinqTutorialInCSharp\LinqInTutorial\LinqTutorialInCSharp\obj\Debug\net5.0\LinqTutorialInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LinqTutorialInCSharp\LinqInTutorial\LinqTutorialInCSharp\obj\Debug\net5.0\LinqTutorialInCSharp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LinqTutorialInCSharp\LinqInTutorial\LinqTutorialInCSharp\obj\Debug\net5.0\LinqTutorialInCSharp.AssemblyInfo.cs
+C:\Users\HP\source\repos\LinqTutorialInCSharp\LinqInTutorial\LinqTutorialInCSharp\obj\Debug\net5.0\LinqTutorialInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LinqTutorialInCSharp\LinqInTutorial\LinqTutorialInCSharp\obj\Debug\net5.0\LinqTutorialInCSharp.dll
+C:\Users\HP\source\repos\LinqTutorialInCSharp\LinqInTutorial\LinqTutorialInCSharp\obj\Debug\net5.0\ref\LinqTutorialInCSharp.dll
+C:\Users\HP\source\repos\LinqTutorialInCSharp\LinqInTutorial\LinqTutorialInCSharp\obj\Debug\net5.0\LinqTutorialInCSharp.pdb
+C:\Users\HP\source\repos\LinqTutorialInCSharp\LinqInTutorial\LinqTutorialInCSharp\obj\Debug\net5.0\LinqTutorialInCSharp.genruntimeconfig.cache
