@@ -23,6 +23,21 @@ namespace LinqTutorialInCSharp
                                      orderby qs
                                      select qs).ToList();
 
+
+            var dataSource = new List<Employee>
+            {
+                new Employee{Id = 1, Name = "Tom", Email = "tom@email.com"},
+                new Employee{Id = 4, Name = "Kim", Email = "kim@email.com"},
+                new Employee{Id = 2, Name = "John", Email = "john@email.com"},
+                new Employee{Id = 3, Name = "Mark", Email = "mark@email.com"},
+                new Employee{Id = 5, Name = "Adom", Email = "adom@email.com"}
+            };
+
+            var querySyntax = (from emp in dataSource
+                               orderby emp.Id
+                               select emp).ToList();
+            var methodSyntax = dataSource.OrderBy(x=>x.Id).ToList();
+
             Console.ReadLine();
         }
     }
